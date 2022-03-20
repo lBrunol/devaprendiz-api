@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_general_social_medias",
+  "info": {
+    "displayName": "socialMedia",
+    "icon": "network-wired"
+  },
+  "options": {},
+  "attributes": {
+    "socialMediaName": {
+      "type": "enumeration",
+      "enum": [
+        "Twitter",
+        "GitHub",
+        "YouTube",
+        "Instagram",
+        "Facebook",
+        "Reddit",
+        "TikTok",
+        "Behance",
+        "Dribble"
+      ],
+      "required": true
+    },
+    "socialMediaLink": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

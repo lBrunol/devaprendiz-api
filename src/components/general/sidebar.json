@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_general_sidebars",
+  "info": {
+    "displayName": "Sidebar",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "resume": {
+      "type": "richtext",
+      "required": true
+    },
+    "socialMedia": {
+      "displayName": "socialMedia",
+      "type": "component",
+      "repeatable": true,
+      "component": "general.social-media"
+    }
+  }
+}

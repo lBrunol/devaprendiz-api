@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_about_resumes",
+  "info": {
+    "displayName": "resume",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

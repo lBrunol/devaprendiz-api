@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_general_navigations",
+  "info": {
+    "displayName": "Navigation",
+    "icon": "border-all"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
